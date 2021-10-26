@@ -1,3 +1,2 @@
-# CSE330
-STUDENT ID: 475410
-
+# COVID-19 World Map
+Update
