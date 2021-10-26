@@ -3,3 +3,11 @@ This project was my second project incorporating ReactJS for creating a web appl
 
 
 [Disease.sh]: <https://disease.sh/>
+
+
+## Learning Outcomes
+Some of the large takeaways from this project were:
+- Modularization through React Components
+- Asynchronous calls to an API endpoint
+- Creating a function for manipulating data to size circles in a manner where they don't explode
+
