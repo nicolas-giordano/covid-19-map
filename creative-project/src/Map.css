@@ -1,0 +1,34 @@
+.world__view {
+	height: 500px;
+	background-color: white;
+	padding: 1rem;
+	border-radius: 20px;
+	margin-top: 16px;
+	box-shadow: 0 0 8px -4px rgba(0, 0, 0, 0.5);
+}
+
+.world__view .leaflet-container {
+	height: 100%;
+}
+
+.tooltip--header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: auto;
+	margin-bottom: 5px;
+}
+
+.flag {
+	margin-left: 25px;
+	height: 40px;
+}
+
+.ReactModal__Overlay.ReactModal__Overlay--after-open {
+	z-index: 1000;
+}
+
+.graph--text {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}

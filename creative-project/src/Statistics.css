@@ -1,0 +1,18 @@
+.stats {
+	flex: 1;
+	cursor: pointer;
+	text-align: center;
+}
+
+.stats:not(:last-child) {
+	margin-right: 15px;
+}
+
+.clicked {
+	border: dodgerblue 5px solid;
+}
+
+.stat_new {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}

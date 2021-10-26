@@ -1,0 +1,15 @@
+.country__list {
+	margin-top: 10px;
+	overflow: auto;
+	height: 400px;
+}
+
+.country__list tr {
+	display: flex;
+	justify-content: space-between;
+}
+
+.country__list td {
+	padding: 5px;
+	margin-right: 5px;
+}
